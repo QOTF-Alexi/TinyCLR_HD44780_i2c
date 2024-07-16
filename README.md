@@ -4,8 +4,8 @@ A driver for the HD44780 over an i2c bus written in C# for the GHI Electronics T
 ## Why?
 Because I can and want to learn something useful.
 ## Studied (but not copied) works.
-[sterlingbeason's LCD-1602-I2C driver](https://github.com/sterlingbeason/LCD-1602-I2C)\n
-[GHI Electronics' SSD1306 driver](https://github.com/ghi-electronics/TinyCLR-Drivers/tree/dev/SolomonSystech/SSD1306)\n
+[sterlingbeason's LCD-1602-I2C driver](https://github.com/sterlingbeason/LCD-1602-I2C)\
+[GHI Electronics' SSD1306 driver](https://github.com/ghi-electronics/TinyCLR-Drivers/tree/dev/SolomonSystech/SSD1306)\
 [johnrickman's LiquidCrystal_I2C driver](https://github.com/johnrickman/LiquidCrystal_I2C)
 ## Alexandra has got you covered.
 You can find more in the UNLICENSE file, but here's a short summary: This is free and unencumbered software released into the public domain.
